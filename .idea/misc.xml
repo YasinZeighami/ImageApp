@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/drawable/gradiant.xml" value="0.122" />
         <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/layout/activity_main.xml" value="0.21770833333333334" />
+        <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/layout/fragment_details.xml" value="0.21770833333333334" />
         <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/layout/fragment_gallery.xml" value="0.21770833333333334" />
         <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/layout/item_unsplash_photo.xml" value="0.4" />
         <entry key="..\:/AndroidProject/ImageSearchApp/app/src/main/res/layout/unsplash_photo_load_state_footer.xml" value="0.264" />
